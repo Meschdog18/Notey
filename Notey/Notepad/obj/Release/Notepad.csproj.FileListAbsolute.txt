@@ -1,0 +1,17 @@
+C:\Users\User\Source\Repos\Notepad\Notepad\bin\Release\Notey.exe
+C:\Users\User\Source\Repos\Notepad\Notepad\bin\Release\Notey.pdb
+C:\Users\User\Source\Repos\Notepad\Notepad\obj\Release\Notepad.Form1.resources
+C:\Users\User\Source\Repos\Notepad\Notepad\obj\Release\Notey.Properties.Resources.resources
+C:\Users\User\Source\Repos\Notepad\Notepad\obj\Release\Notepad.csproj.GenerateResource.Cache
+C:\Users\User\Source\Repos\Notepad\Notepad\obj\Release\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Notepad\Notepad\obj\Release\Notey.exe
+C:\Users\User\Source\Repos\Notepad\Notepad\obj\Release\Notey.pdb
+C:\Users\User\Source\Repos\Notey\Notepad\bin\Release\Notey.exe
+C:\Users\User\Source\Repos\Notey\Notepad\bin\Release\Notey.pdb
+C:\Users\User\Source\Repos\Notey\Notepad\obj\Release\Notepad.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Notey\Notepad\obj\Release\Notepad.Form1.resources
+C:\Users\User\Source\Repos\Notey\Notepad\obj\Release\Notey.Properties.Resources.resources
+C:\Users\User\Source\Repos\Notey\Notepad\obj\Release\Notepad.csproj.GenerateResource.Cache
+C:\Users\User\Source\Repos\Notey\Notepad\obj\Release\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Notey\Notepad\obj\Release\Notey.exe
+C:\Users\User\Source\Repos\Notey\Notepad\obj\Release\Notey.pdb
